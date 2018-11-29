@@ -1,0 +1,40 @@
+[
+    {
+        "_id": 1,
+        "no_of_products":"4",
+        "datePlaced": "2018-06-07",
+        "dateShipped": "2018-06-14",
+        "paymentType": "Cash",
+        "price": 200,
+        "paid": true
+    },
+
+    {   
+        "_id": 2,
+        "no_of_products":"2",
+        "datePlaced": "2018-11-02",
+        "dateShipped": "2018-11-10",
+        "paymentType": "Credit card",
+        "price": 162.5,
+        "paid": true
+    },
+    {   
+        "_id": 3,
+        "no_of_products":"10",
+        "datePlaced": "2018-08-22",
+        "dateShipped": "2018-08-30",
+        "paymentType": "Cash",
+        "price": 40,
+        "paid": true
+    },
+    {   
+        "_id": 4,
+        "no_of_products":"1",
+        "datePlaced": "2018-06-07",
+        "dateShipped": "2018-06-14",
+        "paymentType": "Cash",
+        "price": 499,
+        "paid": true
+    }
+  
+]

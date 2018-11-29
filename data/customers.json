@@ -1,0 +1,47 @@
+[
+    {
+      "_id": 1,
+      "customername": "Saketh",
+      "email": "sakethsunkara15@gmail.com",
+      "street1": "1121 N college dr",
+      "street2": "",
+      "city":"maryville",
+      "state":"missouri",
+      "country":"united states of america",
+      "phno":8888888881
+    },
+    {
+        "_id": 2,
+      "customername": "abhinay",
+      "email": "abhinaykaitha12@gmail.com",
+      "street1": "9841 Northlake Centre Pkwy, Charlotte",
+      "street2": "",
+      "city":"charlotte",
+      "state":"north carolina",
+      "country":"united states of america",
+      "phno":7777777771
+      },
+      {
+        "_id": 3,
+        "customername": "prakash",
+        "email": "prakashreddymamidi@gmail.com",
+        "street1": "4001 Midland Dr, Midland",
+        "street2": "",
+        "city":"austin",
+        "state":"texas",
+        "country":"united states of america",
+        "phno":8887888712
+      },
+      {
+        "_id": 4,
+        "customername": "tarun",
+        "email": "tarunreddypondugula@gmail.com",
+        "street1": "6433 Fallbrook Ave, West Hills",
+        "street2": "",
+        "city":"santa monica",
+        "state":"Los Angeles",
+        "country":"united states of america",
+        "phno":8887888713
+      }
+     
+]

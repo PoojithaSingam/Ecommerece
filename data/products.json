@@ -1,0 +1,35 @@
+[
+    {
+      "_id": 1,
+      "productName": "Alexa",
+      "productDescription": "Alexa is a smart speaker",
+      "price": 200,
+      "productCategory": "Smart Speakers",
+      "sellerId":1
+    },
+    {
+        "_id": 2,
+        "productName": "Air Jordan 13 retro",
+        "productDescription": "air jordan shoe which is a subpart of nike ",
+        "price": 162.55,
+        "productCategory": "Shoe",
+        "sellerId":2
+      },
+      {
+        "_id": 3,
+        "productName": "Nfl snapbacks",
+        "productDescription": "snapbacks of nfl ",
+        "price": 40,
+        "productCategory": "Clothing",
+        "sellerId":3
+      },
+      {
+        "_id": 4,
+        "productName": "Garmin 010-01733-05",
+        "productDescription": "smartwatch from garmin wearables",
+        "price": 499,
+        "productCategory": "watches",
+        "sellerId":4
+      }
+    
+]

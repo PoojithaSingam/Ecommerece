@@ -1,0 +1,35 @@
+<br/>
+<br/>
+<h2>Confirm deletion of puppy</h2>
+<br/>
+<br/> ID:
+<%=  customer._id %>
+  <br> customername:
+  <%=customer.customername%>
+    <br/> email:
+    <%=customer.email%>
+      <br/> street1:
+      <%=customer.street1%>
+      <br/> street2
+      <%=customer.street2%>
+      <br/> city:
+      <%=customer.city%>
+      <br/> state:
+      <%=customer.state%>
+      <br/> country:
+      <%=customer.country%>
+      <br/> phno:
+      <%=customer.phno%>
+      <br/>
+        <br/>
+        <br/>
+        
+
+            <form method="get" action="/customer">
+              <input type="submit" value="Return to list" class="btn btn-caution" />
+            </form>
+
+            <br/>
+            <form method="POST" action="/customer/delete/<%= customer._id %>">
+              <input type="submit" value="Delete this item" class="btn btn-danger pull-right" />
+            </form>
