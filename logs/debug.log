@@ -2645,3 +2645,43 @@ Error: listen EADDRINUSE :::8089
 2018-11-29T18:36:46.355Z - info: END Seeder. Sample data read and verified.
 2018-11-29T18:36:58.795Z - debug: GET /
 2018-11-29T18:36:59.785Z - debug: GET /images/favicon-32x32.png
+2018-12-03T23:25:22.056Z - info: Environment variables loaded.
+2018-12-03T23:25:22.089Z - debug: START routing
+2018-12-03T23:25:22.173Z - debug: END routing
+2018-12-03T23:25:22.173Z - info: Loaded routing.
+2018-12-03T23:25:22.258Z - info: START seeder.
+2018-12-03T23:25:22.266Z - debug: 4 products seeded
+2018-12-03T23:25:22.267Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:25:22.271Z - debug: 4 customers seeded
+2018-12-03T23:25:22.271Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:25:22.275Z - debug: 4 orderLineItems seeded
+2018-12-03T23:25:22.276Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:25:22.281Z - debug: 4 orders seeded
+2018-12-03T23:25:22.281Z - info: END Seeder. Sample data read and verified.
+2018-12-03T23:25:46.231Z - debug: GET /
+2018-12-03T23:25:52.120Z - debug: GET /customer
+2018-12-03T23:25:59.221Z - debug: GET /customer
+2018-12-03T23:26:06.029Z - debug: GET /order
+2018-12-03T23:26:06.042Z - debug: GET /order
+2018-12-03T23:26:06.054Z - debug: GET /order
+2018-12-03T23:26:07.679Z - debug: GET /order
+2018-12-03T23:26:09.720Z - debug: GET /product
+2018-12-03T23:26:10.494Z - debug: GET /orderLineItems
+2018-12-03T23:26:13.736Z - debug: GET /customer
+2018-12-03T23:26:40.814Z - debug: GET /order
+2018-12-03T23:26:44.963Z - debug: GET /product
+2018-12-03T23:26:52.603Z - debug: GET /customer
+2018-12-03T23:26:59.447Z - debug: GET /orderLineItems
+2018-12-03T23:27:04.645Z - debug: GET /
+2018-12-03T23:27:19.240Z - debug: GET /
+2018-12-03T23:27:27.628Z - debug: GET /customer/delete/1
+2018-12-03T23:27:27.654Z - info: Handling GET /delete/:id [object Object]
+2018-12-03T23:27:27.657Z - info: RETURNING VIEW FOR {"_id":1,"customername":"Saketh","email":"sakethsunkara15@gmail.com","street1":"1121 N college dr","street2":"","city":"maryville","state":"missouri","country":"united states of america","phno":8888888881}
+2018-12-03T23:27:41.647Z - debug: GET /orderLineItems
+2018-12-03T23:28:28.713Z - debug: GET /orderlineitem/findone/3
+2018-12-03T23:28:35.826Z - debug: GET /orderLineItems
+2018-12-03T23:28:40.595Z - debug: GET /product
+2018-12-03T23:29:08.520Z - debug: GET /
+2018-12-03T23:35:34.200Z - debug: GET /orderLineItems
+2018-12-03T23:35:35.755Z - debug: GET /product
+2018-12-03T23:35:40.034Z - debug: GET /order
